@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+}
+
+.formLogin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.formLogin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.formLogin input[type=email] {
+  margin-bottom: -1px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.formLogin input[type=password] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+/*# sourceMappingURL=login.css.map */

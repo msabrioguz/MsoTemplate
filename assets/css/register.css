@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+}
+
+.formLogin {
+  max-width: 400px;
+  padding: 1rem;
+}
+
+.formLogin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.formLogin input {
+  margin-bottom: 10px;
+}
+
+/*# sourceMappingURL=register.css.map */
